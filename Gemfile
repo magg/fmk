@@ -45,4 +45,6 @@ gem 'bcrypt-ruby', '~> 3.0.0'
 
 gem 'execjs'
 
-gem 'omniauth-facebook'
+gem 'omniauth-facebook', '1.4.0'
+
+gem "koala"

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  fuck: MyString
+  marry: MyString
+  kill: MyString
+
+two:
+  fuck: MyString
+  marry: MyString
+  kill: MyString
